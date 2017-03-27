@@ -1,0 +1,26 @@
+{
+  "name": "actor-rating-app",
+  "version": "1.0.0",
+  "description": "Actor's database that focuses on their overall ratings based on films",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o-kamiye/actor-rating-app.git"
+  },
+  "keywords": [
+    "Actors",
+    "Celebrities",
+    "Ratings",
+    "Films",
+    "Blockbusters"
+  ],
+  "author": "Oluwakamiye Adelemoni <oluwakamiye.adelemoni@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/o-kamiye/actor-rating-app/issues"
+  },
+  "homepage": "https://github.com/o-kamiye/actor-rating-app#readme"
+}
